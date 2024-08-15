@@ -1,0 +1,62 @@
+.container {
+    border: 2px solid #084498;
+    width: 300px;
+    height: 400px;
+    margin: 80px auto;
+    background-color: aliceblue;
+    background-image: url(img/bg.jpg);
+    /* background-position: center; */
+    /* background-size: cover; */
+    border-radius: 5px;
+}
+
+.box-cont {
+    margin: 20px auto;
+    width: 250px;
+    margin-left: 40px;
+
+
+
+}
+
+#display {
+    padding: 15px;
+    margin: 10px 3px;
+    background-color: rgb(255, 254, 253);
+    border: none;
+    outline: none;
+    box-shadow: inset 5px 5px 10px #fffefe, inset 5px 5px 10px #222;
+}
+
+.buttons {
+    cursor: pointer;
+    height: 36px;
+    width: 36px;
+    text-align: center;
+    margin: 10px 5px;
+    /* font-size: 17px; */
+    font-weight: bold;
+
+}
+
+.math {
+    background-color: #084498;
+    font-size: 18px;
+    color: white;
+    border: none;
+    padding: 3px;
+}
+
+.clear {
+    background-color: rgb(253, 5, 5);
+    font-size: 18px;
+    color: white;
+    border: none;
+    padding: 3px;
+}
+
+.row {
+    /* border: 2px solid black; */
+    margin-top: 25px;
+    padding: 5px;
+}
